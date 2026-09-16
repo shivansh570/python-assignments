@@ -107,3 +107,13 @@ while True:
 print(f"The Sum: {sum}")
 
 '''
+
+'''
+#8. Read the value of N and compute factorials of all numbers lying between 1 to N.
+
+N = int(input("Enter the value of N: "))
+fact = 1
+for i in range(1, N + 1):
+    fact *= i
+    print(f"Factorial of {i}: {fact}")
+'''
