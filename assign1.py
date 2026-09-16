@@ -9,11 +9,10 @@ while True:
     num = int(input("Enter number : "))
     sum += num
     count += 1
-
 average = sum / 5
-
 print(f"Sum: {sum}")
 print(f"Average: {average}")
+
 '''
 
 '''
@@ -29,9 +28,7 @@ while True:
     num = int(input("Enter number : "))
     sum += num
     count += 1
-
 average = sum / N
-
 print(f"Sum: {sum}")
 print(f"Average: {average}")
 
@@ -103,7 +100,6 @@ while True:
     if num < 0:
         break  
     sum += num
-
 print(f"The Sum: {sum}")
 
 '''
@@ -116,4 +112,5 @@ fact = 1
 for i in range(1, N + 1):
     fact *= i
     print(f"Factorial of {i}: {fact}")
+
 '''
