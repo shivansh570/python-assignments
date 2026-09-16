@@ -83,10 +83,10 @@ print(f"Average of even numbers: {average}")
 '''
 
 '''
-#6. Read 5 numbers and print the largest of the three numbers.
+#6. Read N numbers and print the largest of the three numbers.
 
 largest = -9999999999999999999999
-for i in range(5):
+for i in range(N):
     num = float(input("Enter number: "))
     if num > largest:
         largest = num
