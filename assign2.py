@@ -16,6 +16,7 @@ print(sum)
 '''
 
 '''
+
 #2. Write a program in python to read the value of n and compute the given series:
 #   1/3 + 3/5 + 5/7 + ... + (2n-1)/(2n+1)
 
