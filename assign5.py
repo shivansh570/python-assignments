@@ -18,7 +18,7 @@ print(sum)
 '''
 
 '''
-#2. WAP to compute the n terms of the following series: S = 1 - 1/1! + 1/2! - 1/3! + (-1)^n/n!
+#2. WAP to compute the n terms of the following series: S = 1 - 1/1! + 1/2! - 1/3! + ... + (-1)^n/n!
 
 def factorial(num):
     fact = 1
